@@ -1,3 +1,2 @@
 # marnalwiki
-A wiki for stuff.
-hi
+Use this to do whatever you want. This is an open source project.
